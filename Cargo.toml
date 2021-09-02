@@ -1,0 +1,11 @@
+[package]
+name = "xquery"
+version = "0.1.1"
+edition = "2018"
+author = "Leon Ding <ding@ibyte.me>"
+license = "MIT"
+description = "The object–relational mapping library for rust."
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
